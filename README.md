@@ -37,11 +37,15 @@ Risposta	    Significato
 Sì	          Il controllo è pienamente implementato
 Parziale	    Il controllo esiste ma presenta lacune o non è applicato sistematicamente
 No	          Il controllo non è implementato
-N/A	          Il controllo non è applicabile al contesto aziendale
+N/A	          Il controllo non è applicabile al contesto aziendale  
 
-Versione	v1.3
-Anno	2026
+---
+Versione:	v1.3  
+
+Anno:	2026  
+
+Autori: Lorenzo Corona, Federico Bellati  
 
 Riferimenti normativi: 
-Direttiva (UE) 2022/2555 — NIS2
+Direttiva (UE) 2022/2555 — NIS2 , 
 Agenzia per la Cybersicurezza Nazionale (ACN)
